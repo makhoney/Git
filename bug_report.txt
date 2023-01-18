@@ -1,0 +1,9 @@
+1. id
+2. Title
+3. Precondition
+4. STR
+5. Expected result
+6. Actual result
+7. Attachments
+8. Enviroment
+9. Autor
